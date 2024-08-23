@@ -1,0 +1,928 @@
+
+
+<!DOCTYPE HTML>
+
+<html id="htmlTag" class="no-js" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+    <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2mqEsuX0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.sproutonline.com:80/kids/fifi-and-the-flowertots/","20120905035143","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1346817103");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+        <title>Fifi and the Flowertots | Watch Videos | Play Games | PBS Kids Sprout</title>
+    
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+        <meta name="abstract" content="Site Construction by Empathy Lab, LLC. http://empathylab.com"/>
+        <meta name="description" content="Play Fifi and the Flowertots games and watch videos online in the Sproutlets kid's sections of SproutOnline.com!"/>
+        <meta name="keywords" content=""/>
+
+        
+
+        
+        
+
+        <link rel="stylesheet" type="text/css" href="/web/20120905035143cs_/http://www.sproutonline.com/css/main.css?v=2.8.0.13"/>
+        <link rel="stylesheet" type="text/css" href="/web/20120905035143cs_/http://www.sproutonline.com/css/print.css?v=2.8.0.13"/>
+
+        <script type="text/javascript" src="/web/20120905035143js_/http://www.sproutonline.com/scripts/libs/modernizr-1.7.min.js?v=2.8.0.13"></script>
+        <script type="text/javascript" src="/web/20120905035143js_/http://www.sproutonline.com/scripts/libs/swfobject-v2.2.js?v=2.8.0.13"></script>
+        <script type="text/javascript" src="//web.archive.org/web/20120905035143js_/http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+        <script type="text/javascript" src="/web/20120905035143js_/http://www.sproutonline.com/scripts/libs/detectMobileBrowser.js?v=2.8.0.13"></script>
+        <script type="text/javascript" src="/web/20120905035143js_/http://www.sproutonline.com/scripts/libs/jquery.cookie.js?v=2.8.0.13"></script>
+        <script language="javascript" type="text/javascript">
+            // check to see if the detection has already occurred for this user
+            var cookieVal = $.cookie("mobileDetected");
+
+            if (cookieVal != "true") {
+                var ua = navigator.userAgent.toLowerCase();
+                var destinationUrl;
+
+                if ( /(iphone|ipod)/ .test(ua)) {
+                    // redirect to phone page
+                    destinationUrl = "/mobile/smartphone.aspx";
+
+                } else if ( /(ipad)/ .test(ua)) {
+                    // redirect to tablet page (check for android)<br />
+                    destinationUrl = "/mobile/tablet.aspx";
+                }
+
+                if (destinationUrl) {
+                    window.location.replace(destinationUrl);
+                }
+            }
+        </script>
+
+        
+
+<!-- Begin comScore Tag -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035083" });
+    (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://web.archive.org/web/20120905035143/https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript>
+    <img src="https://web.archive.org/web/20120905035143im_/http://b.scorecardresearch.com/p?c1=2&amp;c2=6035083&amp;cv=2.0&amp;cj=1"/>
+</noscript>
+<!-- End comScore Tag -->
+
+
+        
+
+
+    </head>
+    <!--[if lt IE 7 ]> <body class="ie ie6 KidsCharacterPage en-US"> <![endif]-->
+	<!--[if IE 7 ]>    <body class="ie ie7 KidsCharacterPage en-US"> <![endif]-->
+	<!--[if IE 8 ]>    <body class="ie ie8 KidsCharacterPage en-US"> <![endif]-->
+	<!--[if IE 9 ]>    <body class="ie ie9 KidsCharacterPage en-US"> <![endif]-->
+	<!--[if (gt IE 9)|!(IE)]> <!--> <body class="KidsCharacterPage en-US" rel="AppVersion 2.8.0.13">  <!--<![endif]-->
+        <form method="post" action="/web/20120905035143/http://www.sproutonline.com/kids/fifi-and-the-flowertots/" id="form">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYCAgEPZBYGZg8WAh4EVGV4dAVFRmlmaSBhbmQgdGhlIEZsb3dlcnRvdHMgfCBXYXRjaCBWaWRlb3MgfCBQbGF5IEdhbWVzIHwgUEJTIEtpZHMgU3Byb3V0ZAIGEGRkFhoCAQ9kFgRmDxYCHgdWaXNpYmxlaGQCAg8WBB4LZGF0YS1hZHR5cGUFEUhlYWRlckxlYWRlcmJvYXJkHg5kYXRhLWFkY29udGV4dAUEUGFnZWQCAg8PFgIfAWhkZAIDDw8WAh8BaGRkAgUPZBYCZg8WAh4LXyFJdGVtQ291bnRmZAIGD2QWAgICDxYCHwQCBBYIZg9kFgICAQ9kFgZmDxUBNS9tZWRpYS8yNTg2MC8xMjA2MDExNDAwMjkvUGljay1hLUZsb3dlci10aHVtYm5haWwuanBnZAIBDxYCHwFoFgJmDxQrAgFkZAICDxUGXGh0dHA6Ly9jb21jYXN0Y2hkLnZvLmxsbndkLm5ldC9vMTUvQ29udGVudC9nYW1lcy9maWZpYW5kdGhlZmxvd2VydG90cy9maWZpX3BpY2thZmxvd2VyXzIuc3dmAAAFMjU4NTlSaHR0cDovL3d3dy5zcHJvdXRvbmxpbmUuY29tL2dlbmVyaWMta2lkcy1jb250ZW50LXBhZ2VzL2dhbWVzLW92ZXJsYXkuYXNweD9pZD0yNTg1OQ1QaWNrIGEgRmxvd2VyZAIBD2QWAgIBD2QWBmYPFQE6L21lZGlhLzI1ODU0LzEyMDYwMTE0MDAyOC9GaWZpLUppZ3Nhdy1QdXp6bGUtdGh1bWJuYWlsLmpwZ2QCAQ8WAh8BaBYCZg8UKwIBZGQCAg8VBmFodHRwOi8vY29tY2FzdGNoZC52by5sbG53ZC5uZXQvbzE1L0NvbnRlbnQvZ2FtZXMvZmlmaWFuZHRoZWZsb3dlcnRvdHMvZmlmaV9qaWdzYXdfMiUyMDg4MHg1MDAuc3dmAAAFMjU4NTNSaHR0cDovL3d3dy5zcHJvdXRvbmxpbmUuY29tL2dlbmVyaWMta2lkcy1jb250ZW50LXBhZ2VzL2dhbWVzLW92ZXJsYXkuYXNweD9pZD0yNTg1MxJGaWZpIEppZ3NhdyBQdXp6bGVkAgIPZBYCAgEPZBYGZg8VATovbWVkaWEvMjU4MDMvMTIwNjAxMTQwMDI4L0ZpZmktTWF0Y2hpbmctR2FtZS10aHVtYm5haWwuanBnZAIBDxYCHwFoFgJmDxQrAgFkZAICDxUGWGh0dHA6Ly9jb21jYXN0Y2hkLnZvLmxsbndkLm5ldC9vMTUvQ29udGVudC9nYW1lcy9maWZpYW5kdGhlZmxvd2VydG90cy9maWZpX2NhcmRfZ2FtZS5zd2YAAAUyNTgwMlJodHRwOi8vd3d3LnNwcm91dG9ubGluZS5jb20vZ2VuZXJpYy1raWRzLWNvbnRlbnQtcGFnZXMvZ2FtZXMtb3ZlcmxheS5hc3B4P2lkPTI1ODAyEkZpZmkgTWF0Y2hpbmcgR2FtZWQCAw9kFgICAQ9kFgZmDxUBQi9tZWRpYS8yNTY1OS8xMjA2MDExNDAwMjgvRmlmaXMtRmx5aW5nLUZsb3dlci1QZXRhbHMtdGh1bWJuYWlsLmpwZ2QCAQ8WAh8BaBYCZg8UKwIBZGQCAg8VBmhodHRwOi8vY29tY2FzdGNoZC52by5sbG53ZC5uZXQvbzE1L0NvbnRlbnQvZ2FtZXMvZmlmaWFuZHRoZWZsb3dlcnRvdHMvZmlmaS1mbHlpbmctZmxvd2VyLXBldGFscy1nYW1lLnN3ZgAABTI1NjU4Umh0dHA6Ly93d3cuc3Byb3V0b25saW5lLmNvbS9nZW5lcmljLWtpZHMtY29udGVudC1wYWdlcy9nYW1lcy1vdmVybGF5LmFzcHg/aWQ9MjU2NTgbRmlmaSdzIEZseWluZyBGbG93ZXIgUGV0YWxzZAIHDw8WAh8BaGRkAggPDxYCHwFoZGQCCQ9kFgJmDxYCHwQCJRZKZg9kFgJmDxUEDVdpZ2dseSBXYWZmbGUsL21lZGlhLzc0OTU4OC8wMTAxMDEwMDAwMDAvd2lnZ2x5LXdhZmZsZS5zd2YuaHR0cDovL3d3dy5zcHJvdXRvbmxpbmUuY29tL2tpZHMvd2lnZ2x5LXdhZmZsZQ1XaWdnbHkgV2FmZmxlZAIBD2QWAmYPFQQNU3VubnkgU2lkZSBVcCwvbWVkaWEvNzQ5NTczLzAxMDEwMTAwMDAwMC9zdW5ueS1zaWRlLXVwLnN3Zi5odHRwOi8vd3d3LnNwcm91dG9ubGluZS5jb20va2lkcy9zdW5ueS1zaWRlLXVwDVN1bm55IFNpZGUgVXBkAgIPZBYCZg8VBAxTaGFyaW5nIFNob3crL21lZGlhLzc0OTU2Ny8wMTAxMDEwMDAwMDAvc2hhcmluZy1zaG93LnN3Zi1odHRwOi8vd3d3LnNwcm91dG9ubGluZS5jb20va2lkcy9zaGFyaW5nLXNob3cMU2hhcmluZyBTaG93ZAIDD2QWAmYPFQQUU3VwZXIgU3Byb3V0bGV0IFNob3czL21lZGlhLzc0OTU3NS8wMTAxMDEwMDAwMDAvc3VwZXItc3Byb3V0bGV0LXNob3cuc3dmNWh0dHA6Ly93d3cuc3Byb3V0b25saW5lLmNvbS9raWRzL3N1cGVyLXNwcm91dGxldC1zaG93FFN1cGVyIFNwcm91dGxldCBTaG93ZAIED2QWAmYPFQQPR29vZCBOaWdodCBTaG93Li9tZWRpYS83NDk1NTYvMDEwMTAxMDAwMDAwL2dvb2QtbmlnaHQtc2hvdy5zd2YwaHR0cDovL3d3dy5zcHJvdXRvbmxpbmUuY29tL2tpZHMvZ29vZC1uaWdodC1zaG93D0dvb2QgTmlnaHQgU2hvd2QCBQ9kFgJmDxUEDlRoZSBQYWphbmltYWxzKS9tZWRpYS83NDk1NTkvMDEwMTAxMDAwMDAwL3BhamFuaW1hbHMuc3dmL2h0dHA6Ly93d3cuc3Byb3V0b25saW5lLmNvbS9raWRzL3RoZS1wYWphbmltYWxzDlRoZSBQYWphbmltYWxzZAIGD2QWAmYPFQQHQ2FpbGxvdSYvbWVkaWEvNzQ5NTM0LzAxMDEwMTAwMDAwMC9jYWlsbG91LnN3ZihodHRwOi8vd3d3LnNwcm91dG9ubGluZS5jb20va2lkcy9jYWlsbG91B0NhaWxsb3VkAgcPZBYCZg8VBApXaWJibHkgUGlnKS9tZWRpYS83ODE0MDIvMTIwNzMxMjAzMDIzL3dpYmJseS1waWcuc3dmK2h0dHA6Ly93d3cuc3Byb3V0b25saW5lLmNvbS9raWRzL3dpYmJseS1waWcKV2liYmx5IFBpZ2QCCA9kFgJmDxUECzY0IFpvbyBMYW5lKi9tZWRpYS83ODE0MDEvMTIwNzMxMjAzMDA5LzY0LXpvby1sYW5lLnN3ZixodHRwOi8vd3d3LnNwcm91dG9ubGluZS5jb20va2lkcy82NC16b28tbGFuZQs2NCBab28gTGFuZWQCCQ9kFgJmDxUEEU9saXZlIHRoZSBPc3RyaWNoMC9tZWRpYS83ODE0MDMvMTIwNzMxMjAzMDM3L29saXZlLXRoZS1vc3RyaWNoLnN3ZjJodHRwOi8vd3d3LnNwcm91dG9ubGluZS5jb20va2lkcy9vbGl2ZS10aGUtb3N0cmljaBFPbGl2ZSB0aGUgT3N0cmljaGQCCg9kFgJmDxUEC0p1c3RpbiBUaW1lKi9tZWRpYS83NDk1NjUvMDEwMTAxMDAwMDAwL2p1c3Rpbi10aW1lLnN3ZixodHRwOi8vd3d3LnNwcm91dG9ubGluZS5jb20va2lkcy9qdXN0aW4tdGltZQtKdXN0aW4gVGltZWQCCw9kFgJmDxUEIENhaWxsb3UncyBHcmFuZCBHcmFuZHBhcmVudHMgRGF5Li9tZWRpYS83ODE5NzIvMTIwODAzMTUwODE1L2dyYW5kcGFyZW50c2RheS5zd2ZAaHR0cDovL3d3dy5zcHJvdXRvbmxpbmUuY29tL2tpZHMvY2FpbGxvdXMtZ3JhbmQtZ3JhbmRwYXJlbnRzLWRheSBDYWlsbG91J3MgR3JhbmQgR3JhbmRwYXJlbnRzIERheWQCDA9kFgJmDxUEEU5vb2RsZSBhbmQgRG9vZGxlLC9tZWRpYS83NDk1NTUvMDEwMTAxMDAwMDAwL25vb2RsZS1kb29kbGUuc3dmMmh0dHA6Ly93d3cuc3Byb3V0b25saW5lLmNvbS9raWRzL25vb2RsZS1hbmQtZG9vZGxlEU5vb2RsZSBhbmQgRG9vZGxlZAIND2QWAmYPFQQITGF6eVRvd24nL21lZGlhLzc0OTU0Mi8wMTAxMDEwMDAwMDAvbGF6eXRvd24uc3dmKWh0dHA6Ly93d3cuc3Byb3V0b25saW5lLmNvbS9raWRzL2xhenl0b3duCExhenlUb3duZAIOD2QWAmYPFQQJUG9wcHkgQ2F0KC9tZWRpYS83NDk1NzIvMDEwMTAxMDAwMDAwL3BvcHB5LWNhdC5zd2YqaHR0cDovL3d3dy5zcHJvdXRvbmxpbmUuY29tL2tpZHMvcG9wcHktY2F0CVBvcHB5IENhdGQCDw9kFgJmDxUEDVNlc2FtZSBTdHJlZXQsL21lZGlhLzc0OTU3OC8wMTAxMDEwMDAwMDAvc2VzYW1lLXN0cmVldC5zd2YuaHR0cDovL3d3dy5zcHJvdXRvbmxpbmUuY29tL2tpZHMvc2VzYW1lLXN0cmVldA1TZXNhbWUgU3RyZWV0ZAIQD2QWAmYPFQQLRmlyZW1hbiBTYW0qL21lZGlhLzc0OTU0NC8wMTAxMDEwMDAwMDAvZmlyZW1hbi1zYW0uc3dmLGh0dHA6Ly93d3cuc3Byb3V0b25saW5lLmNvbS9raWRzL2ZpcmVtYW4tc2FtC0ZpcmVtYW4gU2FtZAIRD2QWAmYPFQQJU3VwZXIgV0hZKC9tZWRpYS83NDk1NzkvMDEwMTAxMDAwMDAwL3N1cGVyLXdoeS5zd2YqaHR0cDovL3d3dy5zcHJvdXRvbmxpbmUuY29tL2tpZHMvc3VwZXItd2h5CVN1cGVyIFdIWWQCEg9kFgJmDxUEEFRob21hcyAmIEZyaWVuZHMxL21lZGlhLzc0OTU4OS8wMTAxMDEwMDAwMDAvdGhvbWFzLWFuZC1mcmllbmRzLnN3Zi9odHRwOi8vd3d3LnNwcm91dG9ubGluZS5jb20va2lkcy90aG9tYXMtZnJpZW5kcxBUaG9tYXMgJiBGcmllbmRzZAITD2QWAmYPFQQHRG9nZ2l0eSYvbWVkaWEvNzQ5NTQwLzAxMDEwMTAwMDAwMC9kb2dnaXR5LnN3ZihodHRwOi8vd3d3LnNwcm91dG9ubGluZS5jb20va2lkcy9kb2dnaXR5B0RvZ2dpdHlkAhQPZBYCZg8VBAZCYXJuZXklL21lZGlhLzc0OTUzMS8wMTAxMDEwMDAwMDAvYmFybmV5LnN3ZidodHRwOi8vd3d3LnNwcm91dG9ubGluZS5jb20va2lkcy9iYXJuZXkGQmFybmV5ZAIVD2QWAmYPFQQUUm9hcnkgdGhlIFJhY2luZyBDYXIzL21lZGlhLzc0OTU2OS8wMTAxMDEwMDAwMDAvcm9hcnktdGhlLXJhY2luZy1jYXIuc3dmNWh0dHA6Ly93d3cuc3Byb3V0b25saW5lLmNvbS9raWRzL3JvYXJ5LXRoZS1yYWNpbmctY2FyFFJvYXJ5IHRoZSBSYWNpbmcgQ2FyZAIWD2QWAmYPFQQOQ2hsb2UncyBDbG9zZXQsL21lZGlhLzc0OTUzNy8wMTAxMDEwMDAwMDAvY2hsb2VzLWNsb3NldC5zd2YuaHR0cDovL3d3dy5zcHJvdXRvbmxpbmUuY29tL2tpZHMvY2hsb2VzLWNsb3NldA5DaGxvZSdzIENsb3NldGQCFw9kFgJmDxUEF0ZpZmkgYW5kIHRoZSBGbG93ZXJ0b3RzNi9tZWRpYS83NDk1NDMvMDEwMTAxMDAwMDAwL2ZpZmktYW5kLXRoZS1mbG93ZXJ0b3RzLnN3ZjhodHRwOi8vd3d3LnNwcm91dG9ubGluZS5jb20va2lkcy9maWZpLWFuZC10aGUtZmxvd2VydG90cxdGaWZpIGFuZCB0aGUgRmxvd2VydG90c2QCGA9kFgJmDxUEEkFuZ2VsaW5hIEJhbGxlcmluYTEvbWVkaWEvNzQ5NTI1LzAxMDEwMTAwMDAwMC9hbmdlbGluYS1iYWxsZXJpbmEuc3dmM2h0dHA6Ly93d3cuc3Byb3V0b25saW5lLmNvbS9raWRzL2FuZ2VsaW5hLWJhbGxlcmluYRJBbmdlbGluYSBCYWxsZXJpbmFkAhkPZBYCZg8VBBBXaGF0J3MgWW91ciBOZXdzLi9tZWRpYS83NDk1ODcvMDEwMTAxMDAwMDAwL3doYXRzLXlvdXItbmV3cy5zd2YwaHR0cDovL3d3dy5zcHJvdXRvbmxpbmUuY29tL2tpZHMvd2hhdHMteW91ci1uZXdzEFdoYXQncyBZb3VyIE5ld3NkAhoPZBYCZg8VBBRNb25rZXkgU2VlIE1vbmtleSBEbzMvbWVkaWEvNzQ5NTQ5LzAxMDEwMTAwMDAwMC9tb25rZXktc2VlLW1vbmtleS1kby5zd2Y1aHR0cDovL3d3dy5zcHJvdXRvbmxpbmUuY29tL2tpZHMvbW9ua2V5LXNlZS1tb25rZXktZG8UTW9ua2V5IFNlZSBNb25rZXkgRG9kAhsPZBYCZg8VBA5EaXZlIE9sbHkgRGl2ZS0vbWVkaWEvNzQ5NTM5LzAxMDEwMTAwMDAwMC9kaXZlLW9sbHktZGl2ZS5zd2YvaHR0cDovL3d3dy5zcHJvdXRvbmxpbmUuY29tL2tpZHMvZGl2ZS1vbGx5LWRpdmUORGl2ZSBPbGx5IERpdmVkAhwPZBYCZg8VBBhEcml2ZXIgRGFuJ3MgU3RvcnkgVHJhaW4pL21lZGlhLzc0OTU0MS8wMTAxMDEwMDAwMDAvZHJpdmVyLWRhbi5zd2Y4aHR0cDovL3d3dy5zcHJvdXRvbmxpbmUuY29tL2tpZHMvZHJpdmVyLWRhbnMtc3RvcnktdHJhaW4YRHJpdmVyIERhbidzIFN0b3J5IFRyYWluZAIdD2QWAmYPFQQNRnJhbm55J3MgRmVldCsvbWVkaWEvNzQ5NTQ4LzAxMDEwMTAwMDAwMC9mcmFubnlzLWZlZXQuc3dmLWh0dHA6Ly93d3cuc3Byb3V0b25saW5lLmNvbS9raWRzL2ZyYW5ueXMtZmVldA1GcmFubnkncyBGZWV0ZAIeD2QWAmYPFQQNRGlydGdpcmx3b3JsZCwvbWVkaWEvNzQ5NTM4LzAxMDEwMTAwMDAwMC9kaXJ0Z2lybHdvcmxkLnN3Zi5odHRwOi8vd3d3LnNwcm91dG9ubGluZS5jb20va2lkcy9kaXJ0Z2lybHdvcmxkDURpcnRnaXJsd29ybGRkAh8PZBYCZg8VBA9Cb2IgdGhlIEJ1aWxkZXIuL21lZGlhLzc0OTUzMy8wMTAxMDEwMDAwMDAvYm9iLXRoZS1idWlsZGVyLnN3ZjBodHRwOi8vd3d3LnNwcm91dG9ubGluZS5jb20va2lkcy9ib2ItdGhlLWJ1aWxkZXIPQm9iIHRoZSBCdWlsZGVyZAIgD2QWAmYPFQQRVGhlIE1pZ2h0eSBKdW5nbGUsL21lZGlhLzc0OTU0Ny8wMTAxMDEwMDAwMDAvbWlnaHR5LWp1bmdsZS5zd2YyaHR0cDovL3d3dy5zcHJvdXRvbmxpbmUuY29tL2tpZHMvdGhlLW1pZ2h0eS1qdW5nbGURVGhlIE1pZ2h0eSBKdW5nbGVkAiEPZBYCZg8VBAZLaXBwZXIlL21lZGlhLzc0OTU3MS8wMTAxMDEwMDAwMDAva2lwcGVyLnN3ZidodHRwOi8vd3d3LnNwcm91dG9ubGluZS5jb20va2lkcy9raXBwZXIGS2lwcGVyZAIiD2QWAmYPFQQQQmVyZW5zdGFpbiBCZWFycy8vbWVkaWEvNzQ5NTMyLzAxMDEwMTAwMDAwMC9iZXJlbnN0YWluLWJlYXJzLnN3ZjFodHRwOi8vd3d3LnNwcm91dG9ubGluZS5jb20va2lkcy9iZXJlbnN0YWluLWJlYXJzEEJlcmVuc3RhaW4gQmVhcnNkAiMPZBYCZg8VBApab2Jvb21hZm9vKS9tZWRpYS83NDk1OTIvMDEwMTAxMDAwMDAwL3pvYm9vbWFmb28uc3dmK2h0dHA6Ly93d3cuc3Byb3V0b25saW5lLmNvbS9raWRzL3pvYm9vbWFmb28KWm9ib29tYWZvb2QCJA9kFgJmDxUEE1BsYXkgV2l0aCBNZSBTZXNhbWUyL21lZGlhLzc0OTU2Ni8wMTAxMDEwMDAwMDAvcGxheS13aXRoLW1lLXNlc2FtZS5zd2Y0aHR0cDovL3d3dy5zcHJvdXRvbmxpbmUuY29tL2tpZHMvcGxheS13aXRoLW1lLXNlc2FtZRNQbGF5IFdpdGggTWUgU2VzYW1lZAIKD2QWBGYPFgIfAWhkAgIPFgQfAgURRm9vdGVyTGVhZGVyYm9hcmQfAwUEUGFnZWQCCw9kFgJmDxYEHwIFBlByb21vMR8DBQRQYWdlZAIMD2QWAmYPFgQfAgUGUHJvbW8yHwMFBFBhZ2VkAg0PZBYEZg8WAh8BaGQCAg8WBh8CBQZTcXVhcmUfAwUEUGFnZR4OZGF0YS1hZC1oZWlnaHQFAzI3MmQCDg9kFgRmDxYCHwFoZAICDxYGHwIFBlNxdWFyZR8DBQRHYW1lHwUFAzI3MmQCEw9kFgJmDxYEHwIFBVZpZGVvHwMFBVZpZGVvZGR7lhh+cox+wruZwQriNFnMa2NzJw=="/>
+</div>
+
+
+<script src="/web/20120905035143js_/http://www.sproutonline.com/ScriptResource.axd?d=cFtPQs2eEzV6Qw9v3L1v-p-ty9D7Oavgi4JME_V_T7oiJkJC7chhyQ76Q4S8op8koq-ncRTbNOKyS9iy026oGp_SWQ1_F0JPbCrJutpeHO1vvzBvPw6DWSKMIrDC44qvsMkoLKoYGmBEfIhazIuP5b8867RVqwrtTwEuGrs18zQpy0oq0&amp;t=ffffffff940d030f" type="text/javascript"></script>
+            
+            <style>
+                body { background: #fff !important; }
+            </style>  
+            <div class="kids-masterpage">
+                <div class="leaderboard-ad header-leaderboard">
+                    
+<div id="ctl02_headerLeaderboardAd" class="ad-placeholder" data-ad-height="98" data-ad-width="744" data-adtype="HeaderLeaderboard" data-adcontext="Page"></div>   
+                </div>
+                <div class="util-nav"></div>
+                <section id="container">
+                    <div class="grownups-btn-wrap" id="grownups-trigger">
+                       <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/" class="grownups-btn">Grown-Ups</a>  
+                        <div id="grownups-tooltip">
+                            <div class="cap top"></div> 
+                            <div class="grownups-content">
+                                See tips, crafts, recipes &amp; other ways you can share!
+                            </div>  
+                            <div class="cap bottom"></div>
+                        </div>
+                    </div>
+                    <header>
+                        <div class="logo">
+                            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids"><img src="/web/20120905035143im_/http://www.sproutonline.com/i/kids-logo.png" alt="Sprout"/></a>
+                        </div>
+                        <ul class="kids-main-nav">
+                            <li class="games-nav-item">
+                                <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/games-lobby" class="games-nav-link">
+                                    <img src="/web/20120905035143im_/http://www.sproutonline.com/media/732412/010101000000/games-lobby-icon.png" alt="games"/>
+                                </a>
+                            </li>
+                            <li class="video-nav-item">
+                                <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/videos-lobby" class="video-nav-link">
+                                    <img src="/web/20120905035143im_/http://www.sproutonline.com/i/btn/kids-videos-lobby.png" alt="videos"/>
+                                </a>
+                            </li>
+                            <li class="send-nav-item">
+                                <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/send-to-sprout-lobby" class="send-nav-link">
+                                    <img src="/web/20120905035143im_/http://www.sproutonline.com/media/732414/010101000000/sts-lobby-icon.png" alt="send to Sprout"/>
+                                </a>
+                            </li>
+                        </ul>
+                    </header>
+                    
+                    <section id="kids-flash-feature" class="frame-bg">
+                        <div id="kids-flash-feature-inner">
+                            <img src="/web/20120905035143im_/http://www.sproutonline.com/i/backgrounds/kids/kids-framework-img.png" alt=""/>
+                        </div>
+                    </section>
+
+                    <div class="flash-data">
+                        <div class="flash-main">
+                            <div class="flash-main-swf">/media/749621/120514140441/characterPage.swf</div>
+
+                            
+
+                            
+
+                            
+    <div class="image">
+        <div class="index">0</div>
+        <div class="img">/media/749661/010101000000/fifi_background.png</div>
+    </div>
+    <div class="image">
+        <div class="index">1</div>
+        <div class="img">/media/749663/010101000000/fifi_characters.png</div>
+    </div>
+    <div class="image">
+        <div class="index">2</div>
+        <div class="img">/media/749665/010101000000/fifi_logo.png</div>
+    </div>
+
+
+                            
+
+<div class="overlay" id="videos">
+    <div class="flash-main-swf">/media/749585/010101000000/videos-overlay.swf</div>
+	<div class="video-player">
+        <div class="coordinates">0,0</div>
+        <div class="swf">/media/749741/120807152235/video-overlay-player.swf</div>
+        <div class="rss">http://feed.theplatform.com/f/n9DZW/Vy631fMHqR6Y?form=rss</div>
+    </div>
+    
+</div>
+
+                            
+<div class="overlay" id="games">
+    <div class="flash-main-swf">/media/749553/010101000000/games-overlay.swf</div>
+
+
+    
+
+<div class="game-icon">
+    <div class="icon">/media/25860/120601140029/Pick-a-Flower-thumbnail.jpg</div>
+    
+    <div class="swf">http://comcastchd.vo.llnwd.net/o15/Content/games/fifiandtheflowertots/fifi_pickaflower_2.swf</div>
+    <div class="flashVars"></div>
+    <div class="flashParams"></div>
+    <div class="gameId">25859</div>
+    <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/generic-kids-content-pages/games-overlay.aspx?id=25859" target="_self">Pick a Flower</a>
+</div>
+
+    
+
+<div class="game-icon">
+    <div class="icon">/media/25854/120601140028/Fifi-Jigsaw-Puzzle-thumbnail.jpg</div>
+    
+    <div class="swf">http://comcastchd.vo.llnwd.net/o15/Content/games/fifiandtheflowertots/fifi_jigsaw_2%20880x500.swf</div>
+    <div class="flashVars"></div>
+    <div class="flashParams"></div>
+    <div class="gameId">25853</div>
+    <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/generic-kids-content-pages/games-overlay.aspx?id=25853" target="_self">Fifi Jigsaw Puzzle</a>
+</div>
+
+    
+
+<div class="game-icon">
+    <div class="icon">/media/25803/120601140028/Fifi-Matching-Game-thumbnail.jpg</div>
+    
+    <div class="swf">http://comcastchd.vo.llnwd.net/o15/Content/games/fifiandtheflowertots/fifi_card_game.swf</div>
+    <div class="flashVars"></div>
+    <div class="flashParams"></div>
+    <div class="gameId">25802</div>
+    <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/generic-kids-content-pages/games-overlay.aspx?id=25802" target="_self">Fifi Matching Game</a>
+</div>
+
+    
+
+<div class="game-icon">
+    <div class="icon">/media/25659/120601140028/Fifis-Flying-Flower-Petals-thumbnail.jpg</div>
+    
+    <div class="swf">http://comcastchd.vo.llnwd.net/o15/Content/games/fifiandtheflowertots/fifi-flying-flower-petals-game.swf</div>
+    <div class="flashVars"></div>
+    <div class="flashParams"></div>
+    <div class="gameId">25658</div>
+    <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/generic-kids-content-pages/games-overlay.aspx?id=25658" target="_self">Fifi's Flying Flower Petals</a>
+</div>
+
+
+</div>
+
+
+                            
+
+                            
+                        </div>
+
+                        <div class="node-id">749839</div>
+                        <div class="ad-info">
+                            <div class="s1">Kids</div>
+                            <div class="s2">Fifi and the Flowertots</div>
+                        </div>
+
+                        
+
+<div class="flash-navigation">
+    <div id="previous" class="nav-item">
+		<div class="icon-movie-clip">/media/749545/010101000000/main-scroll-arrow.swf</div>
+	</div>
+    <div id="next" class="nav-item">
+		<div class="icon-movie-clip">/media/749545/010101000000/main-scroll-arrow.swf</div>
+	</div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Wiggly Waffle
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749588/010101000000/wiggly-waffle.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/wiggly-waffle">
+                Wiggly Waffle
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Sunny Side Up
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749573/010101000000/sunny-side-up.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/sunny-side-up">
+                Sunny Side Up
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Sharing Show
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749567/010101000000/sharing-show.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/sharing-show">
+                Sharing Show
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Super Sproutlet Show
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749575/010101000000/super-sproutlet-show.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/super-sproutlet-show">
+                Super Sproutlet Show
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Good Night Show
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749556/010101000000/good-night-show.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/good-night-show">
+                Good Night Show
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                The Pajanimals
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749559/010101000000/pajanimals.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/the-pajanimals">
+                The Pajanimals
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Caillou
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749534/010101000000/caillou.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/caillou">
+                Caillou
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Wibbly Pig
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/781402/120731203023/wibbly-pig.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/wibbly-pig">
+                Wibbly Pig
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                64 Zoo Lane
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/781401/120731203009/64-zoo-lane.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/64-zoo-lane">
+                64 Zoo Lane
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Olive the Ostrich
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/781403/120731203037/olive-the-ostrich.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/olive-the-ostrich">
+                Olive the Ostrich
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Justin Time
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749565/010101000000/justin-time.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/justin-time">
+                Justin Time
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Caillou's Grand Grandparents Day
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/781972/120803150815/grandparentsday.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/caillous-grand-grandparents-day">
+                Caillou's Grand Grandparents Day
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Noodle and Doodle
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749555/010101000000/noodle-doodle.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/noodle-and-doodle">
+                Noodle and Doodle
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                LazyTown
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749542/010101000000/lazytown.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/lazytown">
+                LazyTown
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Poppy Cat
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749572/010101000000/poppy-cat.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/poppy-cat">
+                Poppy Cat
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Sesame Street
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749578/010101000000/sesame-street.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/sesame-street">
+                Sesame Street
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Fireman Sam
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749544/010101000000/fireman-sam.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/fireman-sam">
+                Fireman Sam
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Super WHY
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749579/010101000000/super-why.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/super-why">
+                Super WHY
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Thomas &amp; Friends
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749589/010101000000/thomas-and-friends.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/thomas-friends">
+                Thomas &amp; Friends
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Doggity
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749540/010101000000/doggity.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/doggity">
+                Doggity
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Barney
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749531/010101000000/barney.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/barney">
+                Barney
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Roary the Racing Car
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749569/010101000000/roary-the-racing-car.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/roary-the-racing-car">
+                Roary the Racing Car
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Chloe's Closet
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749537/010101000000/chloes-closet.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/chloes-closet">
+                Chloe's Closet
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Fifi and the Flowertots
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749543/010101000000/fifi-and-the-flowertots.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/fifi-and-the-flowertots">
+                Fifi and the Flowertots
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Angelina Ballerina
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749525/010101000000/angelina-ballerina.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/angelina-ballerina">
+                Angelina Ballerina
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                What's Your News
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749587/010101000000/whats-your-news.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/whats-your-news">
+                What's Your News
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Monkey See Monkey Do
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749549/010101000000/monkey-see-monkey-do.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/monkey-see-monkey-do">
+                Monkey See Monkey Do
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Dive Olly Dive
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749539/010101000000/dive-olly-dive.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/dive-olly-dive">
+                Dive Olly Dive
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Driver Dan's Story Train
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749541/010101000000/driver-dan.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/driver-dans-story-train">
+                Driver Dan's Story Train
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Franny's Feet
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749548/010101000000/frannys-feet.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/frannys-feet">
+                Franny's Feet
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Dirtgirlworld
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749538/010101000000/dirtgirlworld.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/dirtgirlworld">
+                Dirtgirlworld
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Bob the Builder
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749533/010101000000/bob-the-builder.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/bob-the-builder">
+                Bob the Builder
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                The Mighty Jungle
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749547/010101000000/mighty-jungle.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/the-mighty-jungle">
+                The Mighty Jungle
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Kipper
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749571/010101000000/kipper.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/kipper">
+                Kipper
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Berenstain Bears
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749532/010101000000/berenstain-bears.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/berenstain-bears">
+                Berenstain Bears
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Zoboomafoo
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749592/010101000000/zoboomafoo.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/zoboomafoo">
+                Zoboomafoo
+            </a>
+        </div>
+    </div>
+    
+    <div class="nav-item">
+        <div class="show">
+            <div class="title">
+                Play With Me Sesame
+            </div>
+        </div>
+        <div class="icon-movie-clip">/media/749566/010101000000/play-with-me-sesame.swf</div>
+        <div class="click-destination">
+            <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/kids/play-with-me-sesame">
+                Play With Me Sesame
+            </a>
+        </div>
+    </div>
+    
+</div>
+                    </div>
+
+                    <div class="leaderboard-ad">
+                        
+<div id="ctl04_footerLeaderboardAd" class="ad-placeholder" data-ad-height="98" data-ad-width="744" data-adtype="FooterLeaderboard" data-adcontext="Page"></div>
+   
+                    </div>
+                    <div class="promo-wrap">
+                        <ul>
+                            <li class="promo">
+                                <div id="ctl05_promoAd" class="ad-placeholder" data-ad-height="250" data-ad-width="300" data-adtype="Promo1" data-adcontext="Page"></div>
+                            </li>
+                            <li class="promo">                            
+                                <div id="ctl06_promoAd" class="ad-placeholder" data-ad-height="250" data-ad-width="300" data-adtype="Promo2" data-adcontext="Page"></div>
+                            </li>
+                            <li class="promo">
+                                
+<div id="ctl07_squareAd" class="ad-placeholder" data-ad-width="308" data-adtype="Square" data-adcontext="Page" data-ad-height="272"></div>
+
+                            </li>
+                        </ul>
+                    </div>
+                    <footer>
+                        <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/privacy-policy">Privacy Policy</a> | <a href="https://web.archive.org/web/20120905035143/http://www.sproutonline.com/terms-of-use">Terms of Use</a> | &copy; 2005-2011, Children's Network, LLC
+                    </footer>
+                    <div id="interstitial" style="display:none">
+                        
+<div id="ctl08_squareAd" class="ad-placeholder" data-ad-width="308" data-adtype="Square" data-adcontext="Game" data-ad-height="272"></div>
+
+                    </div>
+                </section>
+            </div>
+        </form>
+
+        <!-- Flash Games Overlay Modal -->
+        <div style="display: none">
+            <div class="modal" id="open-game-overlay">
+            </div>
+        </div>
+        <!-- END -->
+
+        
+
+<div style="display: none">
+    <div class="modal" id="modal-player-wrap">
+        <a href="#" class="player-trigger pause"></a>
+        <div class="loading-indicator" style="display:none;"></div>
+        <div id="modal-player">
+            You need flash to see this video 
+		        <a href="https://web.archive.org/web/20120905035143/http://www.adobe.com/go/getflashplayer"><img src="https://web.archive.org/web/20120905035143im_/http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player"/></a>
+        </div>
+    </div>
+</div>
+
+
+        <script type="text/javascript" src="//web.archive.org/web/20120905035143js_/http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.14/jquery-ui.min.js"></script>
+         <script type="text/javascript" src="/web/20120905035143js_/http://www.sproutonline.com/scripts/libs/s_code.js?v=2.8.0.13"></script>
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <script type="text/javascript" src="/web/20120905035143js_/http://www.sproutonline.com/DependencyHandler.axd?s=L3NjcmlwdHMvbGlicy9zd2ZvYmplY3QtdjIuMi5qczsvc2NyaXB0cy9saWJzL2lubmVyeGh0bWwuanM7L3NjcmlwdHMvT21uaXR1cmUuanM7L3NjcmlwdHMvcGx1Z2lucy5qczsvc2NyaXB0cy9zcHJvdXRLaWRzLmpzOy9zY3JpcHRzL21vZHVsZXMvTG9naW4uanM7L3NjcmlwdHMvU3Byb3V0QWRzLmpzOy9mb3Jlc2VlL2ZvcmVzZWUtdHJpZ2dlci5qczsvc2NyaXB0cy9iYnYuanM7&amp;t=Javascript&amp;cdv=28013"></script>
+
+        
+    
+
+    
+        <script type="text/javascript">
+            (function ($, swfobject) {
+                var flashvars = {},
+			        params = {
+			            menu: "false",
+			            scale: "noScale",
+			            allowFullscreen: "true",
+			            allowScriptAccess: "always",
+			            bgcolor: "",
+			            wmode: "transparent"
+			        },
+			        attributes = {
+			            id: "sprout"
+			        };
+
+
+                function callback(evt) {
+                    $('body').fadeIn();
+                }
+
+                function embed(evt) {
+                    //document is ready populate flashvars
+                    var dataElement = $('<div />', { "class": "data-container" }).append($('.flash-data'));
+                    var dataString = innerXHTML(dataElement[0]);
+                
+                    flashvars.dataString = encodeURIComponent(dataString);
+
+                    swfobject.embedSWF("/media/749523/010101000000/sprout.swf", "kids-flash-feature-inner", "1000px", "558px", "10.0.0", "/swf/expressInstall.swf", flashvars, params, attributes, callback);
+                }
+
+                (function init() {
+                    $(document).ready(embed);
+                })();
+            })(jQuery, swfobject)
+        
+            $(document).ready(function () {
+                Sprout.Kids.CreateGrownUpHover("#grownups-trigger");
+
+                Omni.init("comcastsproutprod");
+Omni.Doc.Doc("kids","Fifi and the Flowertots",null,null);
+Omni.Doc.Content.Content("shows","Fifi and the Flowertots","Fifi and the Flowertots","",false,"PBS");
+Omni.Character("",false,"PBS");
+Omni.Send();
+
+                Sprout.Ads.Contexts.Page.Evaluate({isPromoted:false, node: 749839, preventAutoRender: true});
+                Sprout.Ads.Contexts.Video.Evaluate({node:749839});
+            });
+        </script>
+    
+	    <div id="ctl19_videoAd" class="ad-placeholder" data-ad-height="480" data-ad-width="640" data-adtype="Video" data-adcontext="Video"></div>
+
+        
+    </body>
+</html>
+<!--
+     FILE ARCHIVED ON 03:51:43 Sep 05, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:01:50 Aug 23, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.4
+  exclusion.robots: 0.014
+  exclusion.robots.policy: 0.006
+  esindex: 0.009
+  cdx.remote: 9.119
+  LoadShardBlock: 87.232 (3)
+  PetaboxLoader3.datanode: 92.605 (5)
+  load_resource: 151.663 (2)
+  PetaboxLoader3.resolve: 23.456
+-->
