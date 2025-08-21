@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Choose Your Channel</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(135deg, #ff80bf, #ff8c42);
+      font-family: Arial, sans-serif;
+      color: white;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 40px;
+    }
+    .choices {
+      display: flex;
+      gap: 40px;
+      flex-wrap: wrap;
+    }
+    .choice {
+      background: white;
+      border-radius: 20px;
+      padding: 30px;
+      width: 220px;
+      height: 220px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: transform 0.2s ease;
+      cursor: pointer;
+    }
+    .choice:hover {
+      transform: scale(1.05);
+    }
+    .choice img {
+      max-width: 180px;
+      max-height: 180px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Choose Your Channel</h1>
+  <div class="choices">
+    <a href="cubby.html" class="choice">
+      <img src="assets/cubby-logo.png" alt="Cubby">
+    </a>
+    <a href="nook.html" class="choice">
+      <img src="assets/nook-logo.png" alt="Nook">
+    </a>
+  </div>
+</body>
+</html>
