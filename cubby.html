@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cubby TV</title>
+  <style>
+    body {
+      margin: 0;
+      background: #fff0f6;
+      color: #ff4da6;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 30px;
+      background: #ff80bf;
+    }
+    header img {
+      height: 50px;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-size: 1.2rem;
+      margin-left: 20px;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    iframe {
+      margin-top: 20px;
+      border-radius: 16px;
+      border: 2px solid #ff80bf;
+      width: 90%;
+      height: 600px;
+      max-width: 1000px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="assets/cubby-logo.png" alt="Cubby Logo">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="schedule.html">Schedule</a>
+    </nav>
+  </header>
+
+  <h1>📺 Welcome to Cubby TV</h1>
+  
+  <!-- Vaughn Live Player -->
+  <iframe src="https://vaughn.live/embed/video/YOURCUBBYCHANNEL"
+          allowfullscreen></iframe>
+</body>
+</html>
