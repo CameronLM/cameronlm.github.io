@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Cubby TV</title>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
   <style>
     body {
       margin: 0;
@@ -32,13 +33,14 @@
     nav a:hover {
       text-decoration: underline;
     }
-    iframe {
-      margin-top: 20px;
-      border-radius: 16px;
-      border: 2px solid #ff80bf;
+    #video {
       width: 90%;
-      height: 600px;
-      max-width: 1000px;
+      max-width: 900px;
+      height: auto;
+      margin-top: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      background: black;
     }
   </style>
 </head>
@@ -51,10 +53,22 @@
     </nav>
   </header>
 
-  <h1>📺 Welcome to Cubby TV</h1>
-  
-  <!-- Vaughn Live Player -->
-  <iframe src="https://vaughn.live/embed/video/YOURCUBBYCHANNEL"
-          allowfullscreen></iframe>
+  <h1>🎥 Live Stream</h1>
+
+  <video id="video" controls autoplay></video>
+
+  <script>
+    const video = document.getElementById('video');
+    const streamUrl = "http://localhost:8409/iptv/channel/1.m3u8?mode=segmenter-v2";
+
+    if (Hls.isSupported()) {
+      const hls = new Hls();
+      hls.loadSource(streamUrl);
+      hls.attachMedia(video);
+    } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+      // Safari supports HLS natively
+      video.src = streamUrl;
+    }
+  </script>
 </body>
 </html>
