@@ -42,6 +42,28 @@
       box-shadow: 0 4px 12px rgba(0,0,0,0.2);
       background: black;
     }
+    .shows {
+      margin: 30px auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+      max-width: 900px;
+      padding: 0 20px;
+    }
+    .shows a {
+      display: block;
+      padding: 15px;
+      border-radius: 12px;
+      background: #ff80bf;
+      color: white;
+      font-weight: bold;
+      text-decoration: none;
+      transition: transform 0.2s ease, background 0.2s ease;
+    }
+    .shows a:hover {
+      transform: scale(1.05);
+      background: #ff4da6;
+    }
   </style>
 </head>
 <body>
@@ -70,5 +92,24 @@
       video.src = streamUrl;
     }
   </script>
+
+  <!-- 🎬 Show Buttons -->
+  <section>
+    <h2>📺 Shows</h2>
+    <div class="shows">
+      <a href="shows/paw-patrol.html">PAW Patrol</a>
+      <a href="shows/wonderblocks.html">WonderBlocks</a>
+      <a href="shows/rubble-crew.html">Rubble & Crew</a>
+      <a href="shows/barney-world.html">Barney's World</a>
+      <a href="shows/spidey.html">Spidey and his Amazing Friends</a>
+      <a href="shows/carl.html">Carl the Collector</a>
+      <a href="shows/mickey.html">Mickey Mouse Clubhouse +</a>
+      <a href="shows/bluey.html">Bluey</a>
+      <a href="shows/peppa.html">Peppa Pig</a>
+      <a href="shows/sesame.html">Sesame Street</a>
+      <a href="shows/mecha.html">Mecha Builders</a>
+      <a href="shows/superwhy.html">Super WHY!</a>
+    </div>
+  </section>
 </body>
 </html>
