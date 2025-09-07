@@ -2,78 +2,115 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>CubbyTV Live</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cubby TV</title>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
   <style>
     body {
       margin: 0;
-      font-family: 'Comic Sans MS', sans-serif; /* Replace with Cubby font if needed */
-      background: linear-gradient(180deg, #ff9933, #ffcc66);
-      color: #333;
-      display: flex;
-      flex-direction: column;
-      min-height: 100vh;
+      background: #fff0f6;
+      color: #ff4da6;
+      font-family: Arial, sans-serif;
+      text-align: center;
     }
     header {
-      text-align: center;
-      padding: 1rem;
-      background: #ff6600;
-      color: white;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
-    main {
-      flex: 1;
       display: flex;
-      justify-content: center;
+      justify-content: space-between;
       align-items: center;
-      padding: 1rem;
+      padding: 10px 30px;
+      background: #ff80bf;
     }
-    video {
+    header img {
+      height: 50px;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-size: 1.2rem;
+      margin-left: 20px;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    #video {
       width: 90%;
-      max-width: 960px;
-      border: 8px solid white;
-      border-radius: 20px;
-      box-shadow: 0px 8px 20px rgba(0,0,0,0.3);
+      max-width: 900px;
+      height: auto;
+      margin-top: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
       background: black;
     }
-    footer {
-      text-align: center;
-      padding: 0.5rem;
-      background: #ff6600;
+    .shows {
+      margin: 30px auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+      max-width: 900px;
+      padding: 0 20px;
+    }
+    .shows a {
+      display: block;
+      padding: 15px;
+      border-radius: 12px;
+      background: #ff80bf;
       color: white;
-      font-size: 0.9rem;
+      font-weight: bold;
+      text-decoration: none;
+      transition: transform 0.2s ease, background 0.2s ease;
+    }
+    .shows a:hover {
+      transform: scale(1.05);
+      background: #ff4da6;
     }
   </style>
 </head>
 <body>
   <header>
-    <h1>📺 CubbyTV Live</h1>
-    <p>Watch your favorite shows anytime!</p>
+    <img src="assets/cubby-logo.png" alt="Cubby Logo">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="schedule.html">Schedule</a>
+    </nav>
   </header>
 
-  <main>
-    <video id="video" controls autoplay></video>
-  </main>
+  <h1>🎥 Live Stream</h1>
 
-  <footer>
-    © 2025 Cubby Channel — Fun for everyone!
-  </footer>
+  <video id="video" controls autoplay></video>
 
   <script>
     const video = document.getElementById('video');
-    const streamUrl = "http://192.168.1.49:8409/iptv/channel/1.m3u8?mode=segmenter-v2"; 
+    const streamUrl = "http://192.168.1.49:8409/iptv/channel/1.m3u8?mode=segmenter-v2";
 
     if (Hls.isSupported()) {
       const hls = new Hls();
       hls.loadSource(streamUrl);
       hls.attachMedia(video);
     } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-      video.src = streamUrl; // Safari
+      // Safari supports HLS natively
+      video.src = streamUrl;
     }
   </script>
+
+  <!-- 🎬 Show Buttons -->
+  <section>
+    <h2>📺 Shows</h2>
+    <div class="shows">
+      <a href="shows/paw-patrol.html">PAW Patrol</a>
+      <a href="shows/wonderblocks.html">WonderBlocks</a>
+      <a href="shows/rubble-crew.html">Rubble & Crew</a>
+      <a href="shows/barney-world.html">Barney's World</a>
+      <a href="shows/spidey.html">Spidey and his Amazing Friends</a>
+      <a href="shows/carl.html">Carl the Collector</a>
+      <a href="shows/mickey.html">Mickey Mouse Clubhouse +</a>
+      <a href="shows/bluey.html">Bluey</a>
+      <a href="shows/peppa.html">Peppa Pig</a>
+      <a href="shows/sesame.html">Sesame Street</a>
+      <a href="shows/mecha.html">Mecha Builders</a>
+      <a href="shows/superwhy.html">Super WHY!</a>
+    </div>
+  </section>
 </body>
 </html>
 
