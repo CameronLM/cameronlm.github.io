@@ -807,6 +807,33 @@ margin: 0 0 0 0;
     opacity:1;
     pointer-events:auto;
 }
+.animation{
+position:relative;
+width:640px;
+max-width:100%;
+}
+
+#heroImage{
+width:100%;
+display:block;
+position:absolute;
+top:0;
+left:0;
+transition:opacity 1.5s ease;
+z-index:2;
+}
+
+#heroImage.fade-out{
+opacity:0;
+}
+
+#heroVideo{
+position:absolute;
+top:0;
+left:0;
+z-index:1;
+width:100%;
+}
 /*
      FILE ARCHIVED ON 21:12:27 Nov 27, 2015 AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON 17:12:23 Dec 29, 2025.
