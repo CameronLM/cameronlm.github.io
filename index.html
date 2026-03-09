@@ -1759,25 +1759,16 @@ window.__gwtStatsEvent && window.__gwtStatsEvent({moduleName:"PDK", sessionId:wi
 
 
 
-</div>
-	<script>
-
+<script>
 window.addEventListener("load", function(){
-
-    const image = document.getElementById("heroImage");
-    const iframe = document.getElementById("heroPlayer");
 
     setTimeout(function(){
 
-        image.classList.add("fade-out");
+        document.getElementById("heroImage").classList.add("fade-out");
+        document.getElementById("heroVideo").classList.add("fade-in");
 
-        setTimeout(function(){
-            iframe.src = iframe.src + "&autoplay=true";
-        },1500);
-
-    },4000);
+    }, 3000);
 
 });
-
 </script>
 </body>
