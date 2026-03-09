@@ -1759,4 +1759,24 @@ window.__gwtStatsEvent && window.__gwtStatsEvent({moduleName:"PDK", sessionId:wi
 
 
 </div>
+	<script>
+
+window.addEventListener("load", function(){
+
+    const image = document.getElementById("heroImage");
+    const iframe = document.getElementById("heroPlayer");
+
+    setTimeout(function(){
+
+        image.classList.add("fade-out");
+
+        setTimeout(function(){
+            iframe.src = iframe.src + "&autoplay=true";
+        },1500);
+
+    },4000);
+
+});
+
+</script>
 </body>
