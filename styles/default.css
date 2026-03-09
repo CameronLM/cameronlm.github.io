@@ -780,60 +780,51 @@ margin: 0 0 0 0;
 	margin-top: -17px;
 	margin-left: -17px;
 	z-index: 1000;
-}
-.video-switch{
-    position: relative;
+	
 }
 
-#heroImage,
-#heroVideo{
-    position: absolute;
-    top:0;
-    left:0;
-    width:100%;
-    transition: opacity 1s ease;
-}
 
-#heroVideo{
-    opacity:0;
-    pointer-events:none;
-}
-
-.video-active #heroImage{
-    opacity:0;
-}
-
-.video-active #heroVideo{
-    opacity:1;
-    pointer-events:auto;
-}
-.animation{
+	.animation{
 position:relative;
 width:640px;
 max-width:100%;
+height:360px;
+
 }
 
 #heroImage{
-width:100%;
-display:block;
 position:absolute;
 top:0;
 left:0;
-transition:opacity 1.5s ease;
+width:100%;
+height:100%;
+object-fit:cover;
 z-index:2;
+transition:opacity 1.5s ease;
+
 }
 
 #heroImage.fade-out{
 opacity:0;
+
 }
 
 #heroVideo{
 position:absolute;
 top:0;
 left:0;
-z-index:1;
 width:100%;
+height:100%;
+z-index:1;
+
 }
+
+#heroVideo iframe{
+width:100%;
+height:100%;
+
+}
+
 /*
      FILE ARCHIVED ON 21:12:27 Nov 27, 2015 AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON 17:12:23 Dec 29, 2025.
